@@ -25,4 +25,4 @@ Sistem Kalkulator Sederhana adalah aplikasi berbasis web yang dibuat menggunakan
 ## Instalasi
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/username/kalkulator-php.git
+   git clone https://github.com/mayasimahate/kalkulator-sederhana.git
