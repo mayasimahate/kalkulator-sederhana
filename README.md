@@ -13,8 +13,10 @@ Sistem Kalkulator Sederhana adalah aplikasi berbasis web yang dibuat menggunakan
 - Tidak memerlukan database atau framework tambahan.
 
 ## Demo Tampilan
-![Screenshot](screenshot.png)
-
+![Screenshot](img/1.png)
+![Screenshot](img/2.png)
+![Screenshot](img/3.png)
+![Screenshot](img/4.png)
 ## Persyaratan Sistem
 - Server web (contoh: Apache atau Nginx).
 - PHP versi 7.0 atau lebih baru.
